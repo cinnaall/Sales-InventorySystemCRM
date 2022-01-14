@@ -1,0 +1,6 @@
+{
+    "require": {
+        "yohang88/letter-avatar": "^2.2",
+        "phpmailer/phpmailer": "^6.5"
+    }
+}
